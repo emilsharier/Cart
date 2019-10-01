@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "191149846657",
+    "firebase_url": "https://website-39b47.firebaseio.com",
+    "project_id": "website-39b47",
+    "storage_bucket": "website-39b47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191149846657:android:aea216f110f295ab",
+        "android_client_info": {
+          "package_name": "com.example.app35"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191149846657-jp7sss3hsdme25102iaagidd4pal91t7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS9ATLguzzbY7TJU4hhl3qgEtn8nt9YQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191149846657-jp7sss3hsdme25102iaagidd4pal91t7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191149846657:android:a7dcd43700d3459f",
+        "android_client_info": {
+          "package_name": "com.example.app40"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191149846657-jp7sss3hsdme25102iaagidd4pal91t7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS9ATLguzzbY7TJU4hhl3qgEtn8nt9YQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191149846657-jp7sss3hsdme25102iaagidd4pal91t7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191149846657:android:e60e25d79c66e995",
+        "android_client_info": {
+          "package_name": "com.example.app42"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191149846657-jp7sss3hsdme25102iaagidd4pal91t7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS9ATLguzzbY7TJU4hhl3qgEtn8nt9YQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191149846657-jp7sss3hsdme25102iaagidd4pal91t7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
