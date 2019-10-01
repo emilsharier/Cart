@@ -1,6 +1,6 @@
-# app42
+# Cart
 
-A new Flutter project.
+A simple cart application making use of Firestore as the backend
 
 ## Getting Started
 
